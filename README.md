@@ -32,6 +32,9 @@ Example:
 sendtext("Protocol Complete!")
 ```
 
+<img src="./telegram_notification.jpg" alt="alt text" width="250px" height="200px">
+
+
 ## Running Protocols on Your OT-2
 There are a few additional steps in order to run your actual protocols with Telegram notifications on your OT-2. You will need to setup SSH access and install the `requests` package on your OT-2.
 
